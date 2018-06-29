@@ -1,0 +1,6 @@
+[ 2018-06-28T10:30:59+08:00 ] ::1 /MyPHP/test.php
+ERR: 模板不存在:./Application/Test/View/Index/index.html
+
+[ 2018-06-28T10:31:03+08:00 ] ::1 /MyPHP/test.php
+ERR: 模板不存在:./Application/Test/View/Index/index.html
+

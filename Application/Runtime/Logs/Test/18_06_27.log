@@ -1,0 +1,12 @@
+[ 2018-06-27T14:39:12+08:00 ] 127.0.0.1 /MyPHP/test.php
+ERR: 1054:Unknown column 'zhang' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `register_user` WHERE ( username=zhang AND password=123 ) 
+
+[ 2018-06-27T16:05:25+08:00 ] 127.0.0.1 /MyPHP//test.php/Index
+ERR: 1054:Unknown column 'zhang' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `register_user` WHERE ( username=zhang AND password=123 ) 
+
+[ 2018-06-27T16:09:55+08:00 ] 127.0.0.1 /MyPHP/test.php
+ERR: 1054:Unknown column 'zhang' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `register_user` WHERE ( username=zhang AND password=123 ) 
+

@@ -1,0 +1,23 @@
+.login_box{
+	width: 40%;
+	height: 300px;
+	border: 2px solid #045FB4;
+	border-radius: 15px;
+	margin-top: 100px;
+	margin-left: 500px;
+	background-color: white;
+
+}
+
+.login_box input{
+	width: 300px;
+	height: 40px;
+	border-radius: 0;
+	border: 1px solid #BDBDBD;
+}
+
+.login_box button{
+	width: 120px;
+	height: 35px;
+	background-color: #01A9DB;
+}
